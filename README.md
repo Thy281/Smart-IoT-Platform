@@ -1,1 +1,3 @@
-# Smart-IoT-Platform
+# SmartGym IoT Platform
+
+Initial commit.
